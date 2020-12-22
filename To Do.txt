@@ -1,5 +1,4 @@
 - Make Tkinter work for my code
 - Create a username and password type database to make it so the contacts will be different for different "accounts"
 - Create the system that would create different contact files for each account
-- Create the system that allows contacts to be stored thru dictionaries and tuples
-- Create a searching system that allows you to enter the name of a contact to find their number or vice versa
+- Create the system that allows contacts to be stored thru dictionaries/tuples/lists
