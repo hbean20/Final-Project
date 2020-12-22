@@ -1,0 +1,3 @@
+susie,1800,susie@comcast.net,cool girls,
+john doe,911,johnny.doe@gmail.com,cool boys,
+felix,700,birdschirp@hotmail.com,winners,
